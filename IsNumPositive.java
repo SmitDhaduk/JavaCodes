@@ -1,7 +1,7 @@
 import java.sql.Date;
 import java.util.Scanner;
 
-public class functions {
+public class IsNumPositive {
 
 	public static void main(String[] args) {
 	
